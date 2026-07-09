@@ -5,8 +5,7 @@
 </p>
 
 <h3 align="center">Suporte Técnico (HelpDesk) → Futuro Dev / Software Engineer 🚀</h3>
-![Status](https://img.shields.io/badge/Status-Protótipo%20de%20desenvolvedor%20em%20constante%20aprendizado-gray?style=flat-square)
-
+<sub>Protótipo de desenvolvedor em constante aprendizado! 🚀</sub>
 <p align="center">
 📍 Ipaussu - São Paulo &nbsp;|&nbsp; 20 anos
 </p>
