@@ -37,7 +37,7 @@
   <img src="https://skillicons.dev/icons?i=js,nodejs,react,java,html,css&theme=dark" />
 </p>
 
-> 🌱 Ainda estou aprendendo e evoluindo em cada uma dessas tecnologias — cada projeto é um passo a mais!
+> 🌱 Ainda estou aprendendo e evoluindo em cada uma dessas tecnologias, cada projeto é um passo a mais!
 
 ---
 
