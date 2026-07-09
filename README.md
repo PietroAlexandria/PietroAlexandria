@@ -4,8 +4,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:6A3093&height=180&section=header" width="100%"/>
 </p>
 
-<h3 align="center">Suporte Técnico (HelpDesk) → Futuro Dev / Software Engineer 🚀</h3>
 <div align="center">
+  <h3 align="center">Suporte Técnico (HelpDesk) → Futuro Dev / Software Engineer 🚀</h3>
   <sub> Protótipo de desenvolvedor em constante aprendizado! </sub>
 </div>
 
