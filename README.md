@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3 align="center">Suporte Técnico (HelpDesk) → Futuro Dev / Software Engineer 🚀</h3>
-  <sub> Protótipo de desenvolvedor em constante aprendizado! </sub>
+  <p> *Protótipo de desenvolvedor em constante aprendizado!* </p>
 </div>
 
 <p align="center">
