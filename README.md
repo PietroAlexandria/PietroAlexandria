@@ -5,7 +5,8 @@
 </p>
 
 <h3 align="center">Suporte Técnico (HelpDesk) → Futuro Dev / Software Engineer 🚀</h3>
-<sub>Protótipo de desenvolvedor em constante aprendizado! 🚀</sub>
+<sub align="center">Protótipo de desenvolvedor em constante aprendizado! 🚀</sub>
+
 <p align="center">
 📍 Ipaussu - São Paulo &nbsp;|&nbsp; 20 anos
 </p>
