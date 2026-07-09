@@ -21,7 +21,7 @@
 
 ---
 
-## Sobre mim
+## 🧑‍💻 Sobre mim
 
 - 🎓 Cursando **Engenharia de Software** na **UniFio** (Ourinhos/SP) — 6° Termo
 - 💼 Atualmente trabalhando como **Suporte Técnico (HelpDesk)** na **CedNet**
@@ -34,12 +34,7 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-1B1B3A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Node.js-1B1B3A?style=for-the-badge&logo=node.js&logoColor=339933"/>
-  <img src="https://img.shields.io/badge/React-1B1B3A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Java-1B1B3A?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
-  <img src="https://img.shields.io/badge/HTML5-1B1B3A?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-1B1B3A?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,java,html,css&theme=dark" />
 </p>
 
 > 🌱 Ainda estou aprendendo e evoluindo em cada uma dessas tecnologias — cada projeto é um passo a mais!
@@ -49,9 +44,7 @@
 ## 💻 IDEs e Ferramentas de Desenvolvimento
 
 <p align="left">
-  <img src="https://img.shields.io/badge/VS%20Code-1B1B3A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-1B1B3A?style=for-the-badge&logo=intellij-idea&logoColor=FE315D"/>
-  <img src="https://img.shields.io/badge/MySQL%20Workbench-1B1B3A?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,mysql&theme=dark" />
 </p>
 
 ---
@@ -59,12 +52,12 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PietroAlexandria&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PietroAlexandria&theme=tokyonight" width="48%"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=PietroAlexandria&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=PietroAlexandria&theme=tokyonight" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PietroAlexandria&layout=compact&theme=tokyonight" width="60%"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PietroAlexandria&layout=compact&theme=tokyonight" width="60%"/>
 </p>
 
 ---
